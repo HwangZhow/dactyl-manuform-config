@@ -57,14 +57,14 @@
 
         raise {
             bindings = <
-    &kp F1        &kp F2        &kp F3        &kp F4        &kp F5       &kp F6                       &kp F7        &kp F8         &kp F9      &kp F10      &kp F11      &kp F12
+    &kp F1        &kp F2        &kp F3        &kp F4        &kp F5       &kp F6                       &kp F7        &kp F8         &kp F9      &kp F10       &kp F11     &kp F12
     &trans        &trans        &trans        &kp UP        &trans       &trans                       &trans        &trans         &kp UP      &trans        &trans      &trans
-    &trans        &trans        &kp LEFT      &kp DOWN      &kp RIGHT  &trans                          &trans       &kp LEFT  &kp DOWN &kp RIGHT     &trans &trans
-       &trans  &kp NUMBER_6  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp NUMBER_0                    &kp LEFT_BRACE  &kp RIGHT_BRACE     &kp LESS_THAN   &kp GREATER_THAN  &kp QUESTION          &kp UNDER
-                                   &trans        &trans                                                                                         &kp PIPE          &kp COLON
-                                                                &none         &none                         &kp EQUAL            &mo 4
-                                                                              &none  &none  &kp TILDE       &kp UNDER
-                                                                        &bootloader  &none   &kp PIPE       &kp TILDE
+    &trans        &trans        &kp LEFT      &kp DOWN      &kp RIGHT    &trans                       &trans        &kp LEFT       &kp DOWN    &kp RIGHT     &trans      &trans
+    &trans        &trans        &trans        &trans        &trans       &trans                       &trans        &trans         &trans      &trans        &trans      &trans
+                                &kp PG_UP     &kp PG_DN                                                                            &kp PG_UP   &kp PG_DN
+                                                                &trans         &trans                         &trans            &trans
+                                                                              &trans  &trans  &trans      &trans
+                                                                        &trans  &trans   &trans       &trans
             >;
         };
 
