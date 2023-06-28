@@ -59,8 +59,8 @@
             bindings = <
     &kp F1        &kp F2        &kp F3        &kp F4        &kp F5       &kp F6                       &kp F7        &kp F8         &kp F9      &kp F10       &kp F11     &kp F12
     &trans        &trans        &trans        &kp UP        &trans       &trans                       &trans        &trans         &kp UP      &trans        &kp C_MUTE      &kp C_PP
-    &trans        &trans        &kp LEFT      &kp DOWN      &kp RIGHT    &trans                       &trans        &kp LEFT       &kp DOWN    &kp RIGHT     &kp C_VOL_UP    &kp C_PREV
-    &trans        &trans        &trans        &trans        &trans       &trans                       &trans        &trans         &trans      &trans        &kp C_VOL_DN  &kp C_NEXT
+    &CAPS        &trans        &kp LEFT      &kp DOWN      &kp RIGHT    &trans                       &trans        &kp LEFT       &kp DOWN    &kp RIGHT     &kp C_VOL_DN    &kp C_NEXT
+    &trans        &trans        &trans        &kp C_AL_CALC        &kp LPAR       &kp RPAR                       &trans        &trans         &trans      &trans        &kp C_VOL_UP  &kp C_PREV
                                 &kp PG_UP     &kp PG_DN                                                                            &kp PG_UP   &kp PG_DN
                                                                 &trans         &trans                         &trans            &trans
                                                                               &trans  &trans  &trans      &trans
@@ -85,8 +85,8 @@
             bindings = <
     &kp F1        &kp F2        &kp F3        &kp F4        &kp F5       &kp F6                       &kp F7        &kp F8         &kp F9      &kp F10       &kp F11     &kp F12
     &trans        &trans        &trans        &kp UP        &trans       &trans                       &trans        &trans         &kp UP      &trans        &kp C_MUTE      &kp C_PP
-    &trans        &trans        &kp LEFT      &kp DOWN      &kp RIGHT    &trans                       &trans        &kp LEFT       &kp DOWN    &kp RIGHT     &kp C_VOL_UP    &kp C_PREV
-    &trans        &trans        &trans        &trans        &trans       &trans                       &trans        &trans         &trans      &trans        &kp C_VOL_DN  &kp C_NEXT
+    &CAPS         &trans        &kp LEFT      &kp DOWN      &kp RIGHT    &trans                       &trans        &kp LEFT       &kp DOWN    &kp RIGHT     &kp C_VOL_DN    &kp C_NEXT
+    &trans        &trans        &trans        &trans        &trans       &trans                       &trans        &trans         &trans      &trans        &kp C_VOL_UP  &kp C_PREV
                                 &kp PG_UP     &kp PG_DN                                                                            &kp PG_UP   &kp PG_DN
                                                                 &trans         &trans                         &trans            &trans
                                                                               &trans  &trans  &trans      &trans
