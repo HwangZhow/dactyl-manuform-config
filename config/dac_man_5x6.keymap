@@ -49,7 +49,7 @@
   &kp LSHIFT   &kp A         &kp S      &kp D   &kp F         &kp G                                          &kp H            &kp J      &kp K            &kp L  &kp SEMICOLON          &kp SQT
 &kp LCTRL   &kp Z         &kp X      &kp C   &kp V         &kp B                                          &kp B            &kp N      &kp M     &kp DOT       &kp FSLH        &kp MINUS
                    &sk LEFT_GUI  &sk LCTRL                                                                                        &sk RCTRL  &kp RIGHT_SHIFT
-                                             &mo 1     &kp SPACE                                      &kp ENTER  &lt 3 BACKSPACE
+                                             &kp ENTER     &kp SPACE                                      &kp ENTER  &lt 3 BACKSPACE
                                                     &sk LEFT_ALT          &sk LSHIFT       &kp BSPC   &kp PG_UP
                                                     &kp LEFT_GUI  &kp LA(LEFT_SHIFT)  &kp PAGE_DOWN  &kp DELETE
             >;
