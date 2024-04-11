@@ -4,8 +4,8 @@
 
 #define DEFAULT 0
 #define RAISE   1
-#define LOWER   3
-#define QUICK   2
+#define LOWER   2
+#define QUICK   3
 #define DOUBLE  4
 
 &sk {
