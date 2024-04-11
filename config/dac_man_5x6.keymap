@@ -4,8 +4,8 @@
 
 #define DEFAULT 0
 #define RAISE   1
-#define LOWER   2
-#define QUICK   3
+#define LOWER   3
+#define QUICK   2
 #define DOUBLE  4
 
 &sk {
@@ -50,7 +50,7 @@
 &kp LCTRL   &kp Z         &kp X      &kp C   &kp V         &kp B                                         &kp B  &kp N            &kp M  &kp SQT       &kp SEMI        &kp RSHIFT       
                    &kp LBKT &kp RBKT                                                                                        &kp COMMA  &kp DOT
                                              &kp ENTER     &kp SPACE                                      &kp SPACE  &kp ENTER
-                                                    &kp LGUI      &mo 1           &mo 2    &kp RALT
+                                                    &kp LGUI      &mo 1           &mo 3    &kp RALT
                                                     &kp BSPC  &kp GRAVE           &kp RGUI  &kp DEL
             >;
         };
