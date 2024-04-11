@@ -50,7 +50,7 @@
 &kp LCTRL   &kp Z         &kp X      &kp C   &kp V         &kp B                                         &kp B  &kp N            &kp M  &kp SQT       &kp SEMI        &kp RSHIFT       
                    &kp LBKT &kp RBKT                                                                                        &kp COMMA  &kp DOT
                                              &kp ENTER     &kp SPACE                                      &kp SPACE  &kp ENTER
-                                                    &kp LGUI      &mo 1           &mo 2    &kp RALT
+                                                    &kp LGUI      &mo 1           &mo 3    &kp RALT
                                                     &kp BSPC  &kp GRAVE           &kp RGUI  &kp DEL
             >;
         };
